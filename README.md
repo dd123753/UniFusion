@@ -65,11 +65,10 @@
 ## MIF Method📚 Source Code References
 
 | Method Name       | Original Repository                                 | Paper Citation       |
-|-------------------|-----------------------------------------------------|----------------------|
+|-------------------|-----------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
 | BSAFusion        | [https://github.com/slrl123/BSAFusion]                   | Li et al., Bsafusion: A bidirectional stepwise feature alignment network for unaligned medical image fusion. In Proceedings of the AAAI Conference on Artificial Intelligence, volume 39, pages 4725–4733, 2025.  |
 | GeSeNet       | [https://github.com/lok-18/GeSeNet]                   |Li et al., Gesenet: A general semantic-guided network with couple mask ensemble for medical image fusion. IEEE Transactions on Neural Networks and Learning Systems, 2023.  |
-| MACTFusion          | [https://github.com/millieXie/MACTFusion]                   | Xie et al., Mactfusion: Lightweight cross transformer for adaptive multimodal medical image fusion. IEEE Journal of Biomedical and
-Health Informatics, 2024.  |
+| MACTFusion          | [https://github.com/millieXie/MACTFusion]                   | Xie et al., Mactfusion: Lightweight cross transformer for adaptive multimodal medical image fusion. IEEE Journal of Biomedical and Health Informatics, 2024.  |
 | MRSCFusion        | [https://github.com/millieXie/MRSCFusion]                  | Xie et al.,  Mrscfusion: Joint residual swin transformer and multiscale cnn for unsupervised multimodal medical image fusion. IEEE Transactions on Instrumentation and Measurement, 72:1–17, 2023. |
  |MsgFusion         | [https://github.com/22385wjy/MsgFusion]                   | Wen et al., Msgfusion: Medical semantic guided two-branch network for multimodal brain image fusion. IEEE Transactions on Multimedia, 26:944–957, 2023.  |
  |MSRPAN          | [https://github.com/jeffsonfu/MSRPAN]                  | Fu et al.,  A multiscale residual pyramid attention network for medical image fusion. Biomedical Signal Processing and Control, 66:102488, 2021.  |
