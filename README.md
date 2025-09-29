@@ -73,9 +73,12 @@
 
 | Method Name       | Original Repository                                  | Paper Citation       |
 |-------------------|------------------------------------------------------|----------------------|
-| Method A          | [github.com/original/repoA](url)                     | Author et al., 2020  |
-| Method B          | [github.com/original/repoB](url)                     | Author et al., 2021  |
-| Method C          | [github.com/original/repoC](url)                     | Author et al., 2022  |
+| DRPL                | [https://github.com/sasky1/DRPL]                   | Li et al., Drpl: Deep regression pair learning for multifocus image fusion. IEEE Transactions on Image Processing, 29:4816–4831, 2020.  |
+| MCCSR-Net         | [https://github.com/yuliu316316/CCSR-Net-Fusion]                    | Zheng et al.,  Unfolding coupled convolutional sparse representation for multi-focus image fusion. Information Fusion, 118:102974, 2025. |
+| MFFT          | [https://github.com/zwy0913/MFFT]                    | Zhai et al.,  Multi-focus image fusion via interactive transformer and asymmetric soft sharing. Engineering Applications of Artificial Intelligence, 133:107967, 2024. |
+| ZMFF       | [https://github.com/junjun-jiang/ZMFF]                  | Hu et al.,  Zmff: Zero-shot multi-focus image fusion. Information Fusion, 92:127–138, 2023.                                                                                                |
+| MFIF-GAN         | [https://github.com/ycwang-libra/MFIF-GAN]                    | Wang et al., Mfif-gan: A new generative adversarial network for multi-focus image fusion. Signal Processing: Image Communication, 96:116295, 2021.               |
+| SESF-Fuse         | [https://github.com/Keep-Passion/SESF-Fuse]                    | Ma et al., Sesf-fuse: An unsupervised deep model for multi-focus image fusion. Neural Computing and Applications, 33(11):5793–5804, 2021. |
 ## UNIVERSAL Method📚 Source Code References
 
 | Method Name       | Original Repository                                  | Paper Citation       |
