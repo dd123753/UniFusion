@@ -79,10 +79,16 @@
 ## UNIVERSAL Method📚 Source Code References
 
 | Method Name       | Original Repository                                  | Paper Citation       |
-|-------------------|------------------------------------------------------|----------------------|
-| Method A          | [github.com/original/repoA](url)                     | Author et al., 2020  |
-| Method B          | [github.com/original/repoB](url)                     | Author et al., 2021  |
-| Method C          | [github.com/original/repoC](url)                     | Author et al., 2022  |
+|-------------------|------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| SwinFusion          | [https://github.com/Linfeng-Tang/SwinFusion]                    |Ma et al.,  Swinfusion: Cross-domain long-range learning for general image fusion via swin transformer. IEEE/CAA Journal of Automatica Sinica, 9(7):1200–1217, 2022.                                                                                          |
+| DDFM          | [https://github.com/Zhaozixiang1228/MMIF-DDFM]                    | Zhao et al., Ddfm: denoising diffusion model for multi-modality image fusion. In Proceedings of the IEEE/CVF international conference on computer vision, pages 8082–8093, 2023                                                                       |
+| CDDFuse         | [https://github.com/Zhaozixiang1228/MMIF-CDDFuse]                    | Zhao et al., Cddfuse: Correlationdriven dual-branch feature decomposition for multi-modality image fusion. In Proceedings of the IEEE/CVF conference on computer vision and pattern recognition, pages 5906–5916, 2023.  |
+| EMMA          | [https://github.com/Zhaozixiang1228/MMIF-EMMA]                    | Zhao et al., Equivariant multi-modality image fusion. In Proceedings of the IEEE/CVF conference on computer vision and pattern recognition, pages 25912–25921, 2024.                                                                                       |
+| TIM          | [https://github.com/LiuZhu-CV/TIMFusion]                    | Liu et al.,  A task-guided, implicitly-searched and meta-initialized deep model for image fusion. IEEE Transactions on Pattern Analysis and Machine Intelligence, 46(10):6594–6609, 2024.                                                           |
+| MMAE        | [https://github.com/xiangxiang-wang/MMAE]                   | Wang et al.,  Mmae: A universal image fusion method via mask attention mechanism. Pattern Recognition, 158:111041, 2025.                                                                                                                                                          |
+|LFDT-Fusion           | [https://github.com/BOYang-pro/LFDT-Fusion]                     | Yang et al.,  Lfdt-fusion: A latent feature-guided diffusion transformer model for general image fusion. Information Fusion, 113:102639, 2025.                                                                                                                                   |
+| MMIF-INet          | [https://github.com/HeDan-11/MMIF-INet]               | He et al.,  Mmif-inet: Multimodal medical image fusion by invertible network. Information Fusion, 114:102666, 2025.  |
+
 
 
 
