@@ -66,8 +66,7 @@
 
 | Method Name       | Original Repository                                 | Paper Citation       |
 |-------------------|-----------------------------------------------------|----------------------|
-| BSAFusion        | [https://github.com/slrl123/BSAFusion]                   | Li et al., Bsafusion: A bidirectional stepwise feature alignment network for unaligned medical
-image fusion. In Proceedings of the AAAI Conference on Artificial Intelligence, volume 39, pages 4725–4733, 2025.  |
+| BSAFusion        | [https://github.com/slrl123/BSAFusion]                   | Li et al., Bsafusion: A bidirectional stepwise feature alignment network for unaligned medical image fusion. In Proceedings of the AAAI Conference on Artificial Intelligence, volume 39, pages 4725–4733, 2025.  |
 | GeSeNet       | [https://github.com/lok-18/GeSeNet]                   |Li et al., Gesenet: A general semantic-guided network with couple mask ensemble for medical image fusion. IEEE Transactions on Neural Networks and Learning Systems, 2023.  |
 | MACTFusion          | [https://github.com/millieXie/MACTFusion]                   | Xie et al., Mactfusion: Lightweight cross transformer for adaptive multimodal medical image fusion. IEEE Journal of Biomedical and
 Health Informatics, 2024.  |
