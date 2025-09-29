@@ -61,6 +61,7 @@
 | PromptFusion      | [https://github.com/hey-it-s-me/PromptFusion]     | Liu et al., Promptfusion: Harmonized semantic prompt learning for infrared and visible image fusion. IEEE/CAA Journal of Automatica Sinica, 2024.                                                                                        |
 | Conti-Fuse        | [https://github.com/zipper112/Conti-Fuse]         | Li et al., Conti-fuse: A novel continuous decompositionbased fusion framework for infrared and visible images. Information Fusion, 117:102839, 2025.                                                                                    |
 | CrossFuse         | [https://github.com/CidanShi/CrossFuse]           | Shi et al., Crossfuse: Learning infrared and visible image fusion by cross-sensor top-k vision alignment and beyond. IEEE Transactions on Circuits and Systems for Video Technology, 2025.                                               |
+
 ## MIF Method📚 Source Code References
 
 | Method Name       | Original Repository                                 | Paper Citation       |
