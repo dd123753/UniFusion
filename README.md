@@ -80,7 +80,7 @@
 
 | Method Name       | Original Repository                                  | Paper Citation       |
 |-------------------|------------------------------------------------------|----------------------|
-| DRPL                | [https://github.com/sasky1/DRPL]                   | Li et al., Drpl: Deep regression pair learning for multifocus image fusion. IEEE Transactions on Image Processing, 29:4816–4831, 2020.  |
+| DRPL                | [https://github.com/sasky1/DRPL]                   | Li et al., Drpl: Deep regression pair learning for multi-focus image fusion. IEEE Transactions on Image Processing, 29:4816–4831, 2020.  |
 | MCCSR-Net         | [https://github.com/yuliu316316/CCSR-Net-Fusion]                    | Zheng et al.,  Unfolding coupled convolutional sparse representation for multi-focus image fusion. Information Fusion, 118:102974, 2025. |
 | MFFT          | [https://github.com/zwy0913/MFFT]                    | Zhai et al.,  Multi-focus image fusion via interactive transformer and asymmetric soft sharing. Engineering Applications of Artificial Intelligence, 133:107967, 2024. |
 | ZMFF       | [https://github.com/junjun-jiang/ZMFF]                  | Hu et al.,  Zmff: Zero-shot multi-focus image fusion. Information Fusion, 92:127–138, 2023.                                                                                                |
